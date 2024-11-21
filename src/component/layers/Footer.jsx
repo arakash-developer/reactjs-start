@@ -1,5 +1,5 @@
 import React from 'react'
-import Container from '@/app/component/layers/Container'
+import Container from './Container'
 
 const Footer = () => {
   return (
