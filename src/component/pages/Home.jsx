@@ -1,11 +1,15 @@
 import React from 'react'
+import Container from '../layers/Container'
+
 
 const Home = () => {
   return (
     <div>
-      <h1 className="text-3xl font-bold underline">
-        Hello world -- Home!
-      </h1>
+      <Container>
+        <h1 className="text-3xl font-bold underline">
+          Hello world -- Home!
+        </h1>
+      </Container>
     </div>
   )
 }
