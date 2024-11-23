@@ -1,8 +1,12 @@
 import React from 'react'
+import Mid from '../layers/Mid'
+
 
 const Error = () => {
   return (
-    <div>Error</div>
+    <>
+        <Mid>Error Page</Mid>
+    </>
   )
 }
 

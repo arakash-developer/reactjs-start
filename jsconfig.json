@@ -1,7 +1,4 @@
 {
-  "compilerOptions": {
-    "paths": {
-      "@/*": ["./*"]
-    }
-  }
+    "exclude": ["node_modules"]
 }
+

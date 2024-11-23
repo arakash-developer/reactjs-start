@@ -1,8 +1,11 @@
 import React from 'react'
+import Mid from '../layers/Mid'
 
 const About = () => {
   return (
-    <div>About</div>
+    <>
+      <Mid>Contact Page</Mid>
+    </>
   )
 }
 
