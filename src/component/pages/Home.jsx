@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
       <Container>
-        <h1 className="text-3xl font-bold underline">
+        <h1 className="text-3xl font-bold underline font-poppins">
           Hello world -- Home!
         </h1>
       </Container>
