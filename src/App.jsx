@@ -6,18 +6,8 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import './App.css'
-import About from './component/pages/About.jsx'
-import Contact from './component/pages/Contact.jsx'
 import Root from './component/layers/Root.jsx'
-import Home from './component/pages/Home';
-import Faq from './component/pages/Faq';
-import Services from './component/pages/Services';
-import Learn from './component/pages/Learn';
 import Error from './component/pages/Error';
-import Product from './component/pages/Product-Details';
-import Products from './component/pages/Products';
-import Cart from './component/layers/Cart';
-
 
 const router = createBrowserRouter(
   createRoutesFromElements(
